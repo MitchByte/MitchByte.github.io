@@ -1,0 +1,18 @@
+[class*="card"]{
+    background-color: rgb(37, 156, 156);
+    color: #ffffff; 
+}
+
+[class*="card-img-top"]{
+    border-radius:0px !important;
+}
+
+[class*="navbar"]{
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.impressum {
+    height: 100vh;
+    background-color: rgb(37, 156, 156);
+    color: #ffffff; 
+}
