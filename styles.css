@@ -11,8 +11,24 @@
     font-family: 'Luckiest Guy', cursive;
 }
 
+[class*="card-footer"]{
+    background-color: rgb(37, 156, 156) !important;
+    color: #ffffff !important;
+    border-radius:0px !important;
+    border: none !important;
+}
+
 .impressum {
     height: 100vh;
     background-color: rgb(37, 156, 156);
     color: #ffffff; 
+}
+
+.site {
+    height: 100vh;
+    background-color: rgb(37, 156, 156);
+    color: #ffffff; 
+}
+.link:hover {
+    color: rgb(33, 37, 41);
 }
